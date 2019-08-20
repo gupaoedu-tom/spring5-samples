@@ -34,3 +34,4 @@
   
   
 # 技术交流
+![image](https://github.com/gupaoedu-tom/resouce/blob/master/gupaoedu-tom-qrcode.png)

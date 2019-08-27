@@ -35,3 +35,6 @@
   
 # 技术交流
 ![image](https://github.com/gupaoedu-tom/resouce/blob/master/gupaoedu-tom-qrcode.png)
+
+### 下一本《Netty 4核心原理与手写RPC框架》正在撰稿中，请关注...
+

@@ -31,6 +31,15 @@
 ### 为什么写书？
 　　其实一开始我没想过要写书，写书的初衷主要是满足学员的诉求。大家认为我个人的学习方法、思维模式、教学方式通俗易懂，很容易让人接受，但是通过视频形式传播受众有限，学员建议我把这些宝贵的经验以纸质书的形式奉献给大家，这样定会给社会带来更大的价值。
 　　借此机会，特别感谢责任编辑董英及电子社的团队成员为本书审稿纠错；感谢我老婆在无数个加班的夜晚给我默默的支持；感谢咕泡学院的学员给本书内容提出宝贵的修改意见。
+ 
+# 随书资源下载
+
+1.[一步一步手绘Spring DI运行时序图.jpg](https://github.com/gupaoedu-tom/resouce/blob/master/spring5/https://github.com/gupaoedu-tom/resouce/blob/master/spring5/%E4%B8%80%E6%AD%A5%E4%B8%80%E6%AD%A5%E6%89%8B%E7%BB%98Spring%20DI%E8%BF%90%E8%A1%8C%E6%97%B6%E5%BA%8F%E5%9B%BE.jpg)
+2.[一步一步手绘Spring IOC运行时序图.jpg](https://github.com/gupaoedu-tom/resouce/blob/master/spring5/%E4%B8%80%E6%AD%A5%E4%B8%80%E6%AD%A5%E6%89%8B%E7%BB%98Spring%20IOC%E8%BF%90%E8%A1%8C%E6%97%B6%E5%BA%8F%E5%9B%BE.jpg)
+3.[一步一步手绘Spring AOP运行时序图.jpg](https://github.com/gupaoedu-tom/resouce/blob/master/spring5/%E4%B8%80%E6%AD%A5%E4%B8%80%E6%AD%A5%E6%89%8B%E7%BB%98Spring%20AOP%E8%BF%90%E8%A1%8C%E6%97%B6%E5%BA%8F%E5%9B%BE.jpg)
+4.[一步一步手绘Spring MVC运行时序图.jpg](https://github.com/gupaoedu-tom/resouce/blob/master/spring5/%E4%B8%80%E6%AD%A5%E4%B8%80%E6%AD%A5%E6%89%8B%E7%BB%98Spring%20MVC%E8%BF%90%E8%A1%8C%E6%97%B6%E5%BA%8F%E5%9B%BE.jpg)
+5.[SpringMVC核心组件关系图.png](https://github.com/gupaoedu-tom/resouce/blob/master/spring5/SpringMVC%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E5%85%B3%E7%B3%BB%E5%9B%BE.png)
+6.[SpringJDBC异常结构图.png](https://github.com/gupaoedu-tom/resouce/blob/master/spring5/SpringJDBC%E5%BC%82%E5%B8%B8%E7%BB%93%E6%9E%84%E5%9B%BE.png)
   
   
 # 技术交流

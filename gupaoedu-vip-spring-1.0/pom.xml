@@ -10,6 +10,7 @@
 	<properties>
 		<!-- dependency versions -->
 		<servlet.api.version>2.4</servlet.api.version>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 
 
@@ -27,7 +28,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>${artifactId}</finalName>
+		<finalName>${project.artifactId}</finalName>
 		<resources>
 			<resource>
 				<directory>${basedir}/src/main/resources</directory>

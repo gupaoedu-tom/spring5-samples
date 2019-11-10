@@ -42,6 +42,7 @@ public class GPDispatcherServlet extends HttpServlet{
 	/**
 	 * 初始化，加载配置文件
 	 */
+	@Override
 	public void init(ServletConfig config) throws ServletException {
 		
 		//1、加载配置文件
@@ -65,7 +66,7 @@ public class GPDispatcherServlet extends HttpServlet{
 		System.out.println("gupaoedu mvcframework is init");
 	}
 	
-	
+	@Override
 	protected void doGet(HttpServletRequest req, HttpServletResponse resp)
 			throws ServletException, IOException {
 		this.doPost(req, resp);
@@ -75,6 +76,7 @@ public class GPDispatcherServlet extends HttpServlet{
 	/**
 	 * 执行业务处理
 	 */
+	@Override
 	protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 		try{
 			doDispatch(req,resp); //开始始匹配到对应的方方法

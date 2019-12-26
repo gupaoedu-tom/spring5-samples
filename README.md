@@ -3,7 +3,7 @@
 
 ### 京东购买链接：[https://item.jd.com/12650902.html](https://item.jd.com/12650902.html){:target="_blank"}
 
-### 当当购买链接：[http://product.dangdang.com/27905338.html](http://product.dangdang.com/27905338.html){:target="_blank"}
+### 当当购买链接：<a href="http://product.dangdang.com/27905338.html" target="_blank">http://product.dangdang.com/27905338.html</a>
 
 倾注十年Spring研究精华与见解
 

@@ -1,5 +1,8 @@
 # 《Spring5核心原理与30个类手写实战》
 ### 4个月销量破万，连续占据畅销榜
+京东购买链接：[https://item.jd.com/12650902.html](https://item.jd.com/12650902.html)
+当当购买链接：[http://product.dangdang.com/27905338.html](http://product.dangdang.com/27905338.html)
+
 倾注十年Spring研究精华与见解
 
 ★本书几乎涵盖在Spring应用中可能遇到的所有问题，核心原理（IoC、DI、AOP、MVC）、高仿手写、数据访问等

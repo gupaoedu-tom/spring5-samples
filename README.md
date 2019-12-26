@@ -1,7 +1,7 @@
 # 《Spring5核心原理与30个类手写实战》
 ### 4个月销量破万，连续占据畅销榜
 
-### 京东购买链接：[https://item.jd.com/12650902.html](https://item.jd.com/12650902.html)
+### 京东购买链接：<a href="https://item.jd.com/12650902.html" target="_blank">https://item.jd.com/12650902.html</a>
 
 ### 当当购买链接：<a href="http://product.dangdang.com/27905338.html" target="_blank">http://product.dangdang.com/27905338.html</a>
 

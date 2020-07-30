@@ -51,6 +51,6 @@
 # 技术交流
 ![image](https://github.com/gupaoedu-tom/resouce/blob/master/gupaoedu-tom-qrcode.png)
 
-### 推荐《[Netty 4核心原理与手写RPC框架实战](https://github.com/gupaoedu-tom/netty4-samples)》已全面开启预售！！！
-### 下一本《[设计模式就该这样学](https://github.com/gupaoedu-tom/design-samples)》正在撰稿中，请关注...
+### 推荐《[Netty 4核心原理与手写RPC框架实战](https://github.com/gupaoedu-tom/netty4-samples)》上架3个月销量突破10000册！
+### 推荐《[设计模式就该这样学](https://github.com/gupaoedu-tom/design-samples)》已全面开启预售！！！
 
